@@ -296,6 +296,8 @@
 				DEVELOPMENT_TEAM = L244ZZ8R59;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyProjectMap/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = fsdsfsdfsdf;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = cvdsfdsf;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -324,6 +326,8 @@
 				DEVELOPMENT_TEAM = L244ZZ8R59;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyProjectMap/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = fsdsfsdfsdf;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = cvdsfdsf;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
